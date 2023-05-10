@@ -1,0 +1,9 @@
+server.port=
+
+bot.name=
+bot.token=
+
+spring.rabbitmq.host=
+spring.rabbitmq.port=
+spring.rabbitmq.username=
+spring.rabbitmq.password=
